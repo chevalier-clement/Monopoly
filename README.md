@@ -7,7 +7,7 @@ Implémentation en Java standard d'un jeu de Monopoly jouable à **2 joueurs** e
 
 ## Lancement
 
-Compiler et exécuter la classe `Main`. Le menu principal propose :
+Compiler et exécuter la classe `App`. Le menu principal propose :
 
 - **Jouer** — lancer une partie à 2 joueurs
 - **Options de démonstration** — scénarios préconfigurés pour illustrer les fonctionnalités du jeu (achat de propriétés, construction de maisons/hôtels, taxes, prison, etc.)
