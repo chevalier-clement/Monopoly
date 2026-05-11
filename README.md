@@ -1,5 +1,5 @@
 # Monopoly — Projet M1 Informatique
-Projet réalisé par **Chevalier Clément** et **Frechin Zach** dans le cadre de la Licence 3 Informatique.
+Projet réalisé par **Chevalier Clément** et **Frechin Zach** dans le cadre du Master 1 Informatique.
 
 ## Présentation
 
